@@ -2,7 +2,7 @@
 
 ### :woman_technologist: About Me
 
-Hi, my name is Gleb and I’m a 3rd year student of the Belarusian State University of Informatics and Radioelectronics (BSUIR). 
+Hi, my name is Gleb and I’m a 4th year student of the Belarusian State University of Informatics and Radioelectronics (BSUIR). 
 I’m studying an engineering speciality related to optical devices.
 
 ### :hammer_and_wrench: Language and tools
