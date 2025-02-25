@@ -2,8 +2,10 @@
 
 ### :woman_technologist: About Me
 
-Hi, my name is Gleb and I’m a 4th year student of the Belarusian State University of Informatics and Radioelectronics (BSUIR). 
-I’m studying an engineering speciality related to optical devices.
+I am a Junior Angular Developer with over 1 year of experience developing web applications in Angular.
+
+My technology stack includes Angular 16+, TypeScript, RxJS, HTML5, SCSS, as well as experience with REST APIs and basic principles of state management (NgRx).
+My goal is to be part of a strong team where I can apply my knowledge and contribute to building quality products.
 
 ### :hammer_and_wrench: Language and tools
 ![Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,github,vscode&theme=dark&perline=10)
@@ -14,9 +16,9 @@ I’m studying an engineering speciality related to optical devices.
 - E-mail: glsidorenko01@gmail.com
 
 ### 📚 Education and courses:
-- 2019 - Present BSUIR, Faculty of Computer-Aided Design
+- 2019 - 2023 - BSUIR, Faculty of Computer-Aided Design
 - 2021 - 2022 RSSchool JavaScript/Front-end 2022Q1: Stage1, Stage2 - [link to certificate](https://app.rs.school/certificate/fxwhp93a)
-- 2022 - Present RSSchool React Course
+- 2022 - RSSchool Angular Course
 
 ### 🤝 Languages:
 - Russian - native speaker.
