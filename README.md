@@ -8,7 +8,7 @@ My technology stack includes Angular 16+, TypeScript, RxJS, HTML5, SCSS, as well
 My goal is to be part of a strong team where I can apply my knowledge and contribute to building quality products.
 
 ### :hammer_and_wrench: Language and tools
-![Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,github,vscode&theme=dark&perline=10)
+![Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,angular,github,vscode&theme=dark&perline=10)
 
 ### 💬 Contact information
 - Address: Belarus, Minsk
