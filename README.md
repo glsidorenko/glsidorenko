@@ -2,7 +2,7 @@
 
 ### :woman_technologist: About Me
 
-I am a Junior Angular Developer with over 1 year of experience developing web applications in Angular.
+I am an Angular Developer with over 1 year of experience developing web applications in Angular.
 
 My technology stack includes Angular 16+, TypeScript, RxJS, HTML5, SCSS, as well as experience with REST APIs and basic principles of state management (NgRx).
 My goal is to be part of a strong team where I can apply my knowledge and contribute to building quality products.
